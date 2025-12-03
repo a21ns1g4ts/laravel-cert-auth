@@ -1,12 +1,17 @@
 {
-    "name": "nunomaduro/skeleton-php",
-    "description": "A skeleton repository for my packages",
-    "keywords": ["php", "skeleton", "package"],
+    "name": "a2insights/laravel-cert-auth",
+    "description": "Laravel Certificate Authentication Package",
+    "keywords": [
+        "php",
+        "laravel",
+        "auth",
+        "certificate"
+    ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Atila Silva",
+            "email": "atila.danvi@outlook.com"
         }
     ],
     "require": {
@@ -23,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NunoMaduro\\SkeletonPhp\\": "src/"
+            "A2Insights\\LaravelCertAuth\\": "src/"
         }
     },
     "autoload-dev": {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace NunoMaduro\SkeletonPhp;
+namespace A2Insights\LaravelCertAuth;
 
 /**
  * @internal

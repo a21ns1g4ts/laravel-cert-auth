@@ -1,6 +1,6 @@
 <?php
 
-use NunoMaduro\SkeletonPhp\Example;
+use A2Insights\LaravelCertAuth\Example;
 
 it('foo', function (): void {
     $example = new Example;
